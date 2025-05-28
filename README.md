@@ -5,7 +5,7 @@ I'm a PhD student in the field of event-based vision at Leibniz University Hanno
 - 🎓 B.Sc. in Computer Science - TU Dortmund  
 - 🎓 M.Sc. in Computer Science - Umeå University (Sweden)
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 <a href="https://www.python.org" target="_blank"><img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
 <a href="https://www.java.com/" target="_blank"><img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></a>
