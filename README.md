@@ -2,7 +2,7 @@
 
 I'm a PhD student in the field of event-based vision at Leibniz University Hannover.  
 
-- 🎓 B.Sc. in Computer Science - TU Dortmund  
+- 🎓 B.Sc. in Computer Science - TU Dortmund (Germany)
 - 🎓 M.Sc. in Computer Science - Umeå University (Sweden)
 
 ### Languages and Tools
