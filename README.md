@@ -20,6 +20,6 @@ I'm a PhD student in the field of event-based vision at Leibniz University Hanno
 
 As you can see, I am a LaTeX fan:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pina-cola&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pina-cola&layout=compact&theme=dark&v=2)
 
 
