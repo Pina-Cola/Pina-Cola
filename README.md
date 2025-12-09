@@ -22,4 +22,5 @@ As you can see, I am a LaTeX fan:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pina-cola&layout=compact&theme=dark&v=2)
 
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pina-cola&layout=compact&theme=dark)
 
